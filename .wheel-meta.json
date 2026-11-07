@@ -1,0 +1,22 @@
+{
+  "wheel_id": 795,
+  "structure": "umbrella",
+  "slug": "roofcontractortampa-153",
+  "project": "roof-repair-tampa-beginner-guide-9d6554790793ac9891029bbce68c92",
+  "parent_t1_ref": "roofcontractortampa-006",
+  "node_role": "buffer",
+  "money_target": "roofcontractortampa.net",
+  "primary_kw": "roof repair tampa beginner guide",
+  "intended_url": "https://sitesau.github.io/roofcontractortampa-153/",
+  "tier": "T2",
+  "writeback_nonce": "69ff0cae2223c25e",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/roof-repair-tampa-roofcontractortampa-006/",
+      "anchor": "Roof Repair Tampa: A Practical Scope Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
